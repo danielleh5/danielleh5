@@ -2,8 +2,8 @@
 
 **Junior Data Analyst**
 
-Hey! I’m Dani, a junior data analyst focused on building data-driven insights.  
-Currently improving my skills in Power BI, SQL, and working toward PL-300 certification.
+Hey! I’m Dani, a junior data analyst currently focused on deepening my skills in the field. I’m finishing a degree in Marketing and have over 5 years of experience working in the area. It was through this journey that I developed a strong interest in data and tools like Power BI, which led me to transition into data analytics.
+Right now, I’m actively preparing for the Microsoft PL-300 (Power BI) certification as part of my career shift.
 
 ---
 
