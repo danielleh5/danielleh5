@@ -29,14 +29,6 @@ Right now, I’m actively preparing for the Microsoft PL-300 (Power BI) certific
 />
 <img 
     align="left" 
-    alt="DevOps" 
-    title="DevOps"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
@@ -45,35 +37,11 @@ Right now, I’m actively preparing for the Microsoft PL-300 (Power BI) certific
 />
 <img 
     align="left" 
-    alt="Plotly"
-    title="Plotly" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Scikitlearn"
     title="scikitlearn" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MatLab"
-    title="MatLab" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" 
 />
 <img 
     align="left" 
@@ -98,14 +66,6 @@ Right now, I’m actively preparing for the Microsoft PL-300 (Power BI) certific
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-    align="left" 
-    alt="GitLab" 
-    title="GitLab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" 
 />
 <img 
     align="left" 
