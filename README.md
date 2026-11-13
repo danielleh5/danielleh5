@@ -15,7 +15,6 @@ Hoje estudo análise de dados e uso o que aprendo para transformar números em d
 - 📚 Estudando **Análise de Dados**: SQL, Python, Estatística e Power BI
 - 🎯 Me preparando para a certificação **Microsoft PL-300 (Power BI)**
 - 📈 Unindo o olhar de marketing com a análise: funil, tráfego pago, SEO e desempenho
-- 🌱 Construindo meu portfólio aqui no GitHub
 
 ---
 
