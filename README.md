@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
 Trabalho com marketing há mais de 5 anos e estou terminando a graduação em Marketing. Foi no dia a dia da área, acompanhando campanhas, relatórios e resultados, que me apaixonei por dados.
 
@@ -18,7 +18,7 @@ Hoje estudo análise de dados e uso o que aprendo para transformar números em d
 
 ---
 
-### 🧠 Ferramentas que eu uso
+### Ferramentas que eu uso
 
 **Análise de dados**
 
@@ -26,7 +26,6 @@ Hoje estudo análise de dados e uso o que aprendo para transformar números em d
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
@@ -52,7 +51,7 @@ Hoje estudo análise de dados e uso o que aprendo para transformar números em d
 
 ---
 
-### 📂 Projetos em destaque
+### Projetos em destaque
 
 | Projeto | O que faz | Ferramentas |
 |---|---|---|
